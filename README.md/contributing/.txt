@@ -1,0 +1,2 @@
+# IBM-Project-34787-1660276617
+Fertilizers Recommendation System For Disease Prediction
